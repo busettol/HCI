@@ -5,7 +5,7 @@ Public Figma URL - https://www.figma.com/file/pwc4AtlI47rkduyTrCH39v/Assignment-
 
 
 
-#New Desireable Functionalities
+New Desireable Functionalities
 The 5 functionalities I want my app to support include:
 1. A file sharing system so its easy for teacher to student, as well as student to student to collaboration on work.
 2. A fully functional chat system. Slate for example only allows for Email between users, but a much faster and effective approach would be to have an instant messaging feature as a main point of contact.
